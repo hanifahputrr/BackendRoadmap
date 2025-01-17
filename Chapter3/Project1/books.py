@@ -4,12 +4,12 @@ app = FastAPI()
 
 
 BOOKS = [
-    {'title': 'Title One', 'author': 'Author One', 'category': 'science'},
-    {'title': 'Title Two', 'author': 'Author Two', 'category': 'science'},
-    {'title': 'Title Three', 'author': 'Author Three', 'category': 'history'},
-    {'title': 'Title Four', 'author': 'Author Four', 'category': 'math'},
-    {'title': 'Title Five', 'author': 'Author Five', 'category': 'math'},
-    {'title': 'Title Six', 'author': 'Author Two', 'category': 'math'}
+    {'title': 'people we meet on vacation', 'author': 'emily henry', 'category': 'romcom'},
+    {'title': 'book lovers', 'author': 'emily henry', 'category': 'romcom'},
+    {'title': 'hello', 'author': 'tere liye', 'category': 'drama'},
+    {'title': 'if we make it through december', 'author': 'giantara', 'category': 'romcom'},
+    {'title': 'hello cello', 'author': 'nadia ristivani', 'category': 'romcom'},
+    {'title': 'filosofi teras', 'author': 'henry manampiring', 'category': 'self development'}
 ]
 
 
